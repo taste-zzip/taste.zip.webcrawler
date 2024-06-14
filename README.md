@@ -15,7 +15,10 @@
 `SEARCH_KEYWORD = '검색 키워드'.replace(' ', '+')`
 
 ### jupyter 실행
-- 결과
-![alt text](image.png)
-- 파일 쓰기
-![alt text](image-1.png)
+<Dafatframe 출력>
+
+![image](https://github.com/taste-zzip/taste.zip.webcrawler/assets/96538554/b718afc7-c808-49ad-9747-972b18186ef7)
+
+<파일 쓰기>
+
+![image](https://github.com/taste-zzip/taste.zip.webcrawler/assets/96538554/71838b38-17d8-4a4a-a049-f1c13b0eb3ca)
